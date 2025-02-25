@@ -156,6 +156,11 @@ div#award div.col-2{
 	padding-right: 0px;
 }
 
+div#education div.col-4 img{
+    width: 100%;
+    height: auto; 
+}
+
 div#education div.col-2 img,
 div#research div.col-2 img{
 	max-width: 35%;

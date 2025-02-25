@@ -38,6 +38,10 @@ a:hover img {
 	display: none;
 }
 
+.row strong, .row a{display:inline;}
+
+.row {white-space: nowrap;}
+
 p {
 	font-size: 14.5px;
 	margin-bottom: 5px;
